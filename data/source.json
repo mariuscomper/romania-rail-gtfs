@@ -1,0 +1,40 @@
+{
+  "snapshot": {
+    "upstream_repository": "https://github.com/vasile/data.gov.ro-gtfs-exporter",
+    "upstream_commit": "a8d353dec5e6ac0c82de58c81c3396d7a78c5de3",
+    "raw_directory": "https://raw.githubusercontent.com/vasile/data.gov.ro-gtfs-exporter/a8d353dec5e6ac0c82de58c81c3396d7a78c5de3/gtfs-out",
+    "valid_from": "2025-12-14",
+    "valid_to": "2026-12-12",
+    "default_view_date": "2026-07-30",
+    "build_generated_at": "2026-09-07T00:00:00+00:00",
+    "type": "static-modeled-schedule",
+    "sha256": {
+      "agency.txt": "f9d8e52ea5578a8a4019eb63c629cf0da7e613ddb1ff6255ac364ff5b8440a58",
+      "calendar.txt": "e79c3d52515a3197088a3219e3e8941b0f0e0ea4a69ee473fb38e00be8301af9",
+      "calendar_dates.txt": "47542fe60a4797b037c6e0655cd1d822682a69eb1a573939ead4055473888e83",
+      "routes.txt": "e607879e604ff33a65289b4c55bd31558ae7730557bf2c56f54f34b6fed0a3ef",
+      "stop_times.txt": "8f4b8d35d5b5aaf060d3fe519edac4828c8e69d2021c146b7ba0e1833211d565",
+      "stops.txt": "365b4d46f634dde83cdb336e78eaddf74fb3f77da39548d12507e3b5c100a5e6",
+      "trips.txt": "bb9317d06303f8562de88fdbbdeb1d5df90b6250bd3272a30919fd0e8628e935"
+    }
+  },
+  "publisher": {
+    "name": "S.C. Informatică Feroviară S.A.",
+    "portal": "data.gov.ro",
+    "organization_url": "https://data.gov.ro/organization/9b0bc5fc-2062-4aef-b916-b48b7c459af7?organization=sc-informatica-feroviara-sa"
+  },
+  "scope": {
+    "transport": "passenger rail",
+    "freight_included": false,
+    "realtime_included": false,
+    "replacement_bus_route_type_200": "retained in GTFS and SQLite; excluded from the rail atlas"
+  },
+  "license_review": {
+    "status": "mixed-source-review-required",
+    "note": "The source portal lists licenses per operator dataset. Verify the current metadata and preserve attribution before redistributing a refreshed snapshot.",
+    "known_snapshot_terms": [
+      "OGL-ROU-1.0 is listed for the CFR Călători, Regio Călători, InterRegional and Softrans datasets in the reviewed metadata.",
+      "CC BY 4.0 is listed for the Ferotrafic–TFI dataset in the reviewed metadata."
+    ]
+  }
+}
