@@ -1,0 +1,36 @@
+{
+  "validated_at_utc": "2026-09-07T01:39:07+00:00",
+  "atlas_sha256": "243e470131135b517e0fe86a9fc4b1b7f01b8e41126c422d1ef6d50d6803ce52",
+  "validity": [
+    "2025-12-14",
+    "2026-12-12"
+  ],
+  "default_date": "2026-07-30",
+  "corridors": 12,
+  "operators": 7,
+  "services": 203,
+  "corridor_train_segments": 1928,
+  "category_segment_counts": {
+    "IR": 341,
+    "R": 954,
+    "R-E": 447,
+    "IC": 67,
+    "IR-N": 101,
+    "R-M": 18
+  },
+  "operator_segment_counts": {
+    "228389": 280,
+    "6100826": 1178,
+    "227098": 209,
+    "236037": 162,
+    "236025": 28,
+    "237330": 37,
+    "247232": 34
+  },
+  "largest_axis_gap": {
+    "corridor": "bucuresti-suceava",
+    "km": 56.559999999999974
+  },
+  "errors": [],
+  "status": "pass"
+}

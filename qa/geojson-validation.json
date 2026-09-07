@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "feature_count": 1695,
+  "stop_count": 1695,
+  "geometry_types": [
+    "Point"
+  ],
+  "operator_count_range": [
+    1,
+    7
+  ],
+  "errors": []
+}

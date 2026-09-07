@@ -1,0 +1,13 @@
+﻿id,corridor_ro,corridor_en,approx_distance_km,axis_points,timetable_definitions,movements_on_default_date,max_gap_between_published_calling_points_km
+bucuresti-brasov,București Nord – Brașov,Bucharest North – Brașov,156.09,34,245,240,11.8
+bucuresti-constanta,București Nord – Constanța,Bucharest North – Constanța,218.93,41,134,115,10.5
+bucuresti-craiova,București Nord – Craiova,Bucharest North – Craiova,201.85,40,155,135,9.7
+bucuresti-suceava,București Nord – Suceava,Bucharest North – Suceava,436.35,59,317,296,56.6
+bucuresti-galati,București Nord – Galați,Bucharest North – Galați,250.23,43,253,243,40.5
+bucuresti-pitesti,București Nord – Pitești,Bucharest North – Pitești,106.19,25,152,148,8.6
+brasov-cluj,Brașov – Cluj-Napoca,Brașov – Cluj-Napoca,289.85,59,171,169,12.6
+brasov-sibiu,Brașov – Sibiu,Brașov – Sibiu,138.21,36,67,67,7.8
+craiova-timisoara,Craiova – Timișoara Nord,Craiova – Timișoara North,309.22,67,99,90,15.4
+timisoara-arad,Timișoara Nord – Arad,Timișoara North – Arad,54.5,12,80,74,7.2
+iasi-suceava,Iași – Suceava,Iași – Suceava,124.51,20,124,110,13.5
+cluj-baia-mare,Cluj-Napoca – Baia Mare,Cluj-Napoca – Baia Mare,172.49,43,131,123,12.8

@@ -1,0 +1,41 @@
+{
+  "status": "pass",
+  "raw_files": [
+    "agency.txt",
+    "routes.txt",
+    "trips.txt",
+    "stops.txt",
+    "stop_times.txt",
+    "calendar.txt",
+    "calendar_dates.txt"
+  ],
+  "upstream_commit": "a8d353dec5e6ac0c82de58c81c3396d7a78c5de3",
+  "raw_sha256": {
+    "agency.txt": "f9d8e52ea5578a8a4019eb63c629cf0da7e613ddb1ff6255ac364ff5b8440a58",
+    "routes.txt": "e607879e604ff33a65289b4c55bd31558ae7730557bf2c56f54f34b6fed0a3ef",
+    "trips.txt": "bb9317d06303f8562de88fdbbdeb1d5df90b6250bd3272a30919fd0e8628e935",
+    "stops.txt": "365b4d46f634dde83cdb336e78eaddf74fb3f77da39548d12507e3b5c100a5e6",
+    "stop_times.txt": "8f4b8d35d5b5aaf060d3fe519edac4828c8e69d2021c146b7ba0e1833211d565",
+    "calendar.txt": "e79c3d52515a3197088a3219e3e8941b0f0e0ea4a69ee473fb38e00be8301af9",
+    "calendar_dates.txt": "47542fe60a4797b037c6e0655cd1d822682a69eb1a573939ead4055473888e83"
+  },
+  "zip_members": [
+    "agency.txt",
+    "routes.txt",
+    "trips.txt",
+    "stops.txt",
+    "stop_times.txt",
+    "calendar.txt",
+    "calendar_dates.txt"
+  ],
+  "zip_member_sha256": {
+    "agency.txt": "f9d8e52ea5578a8a4019eb63c629cf0da7e613ddb1ff6255ac364ff5b8440a58",
+    "routes.txt": "e607879e604ff33a65289b4c55bd31558ae7730557bf2c56f54f34b6fed0a3ef",
+    "trips.txt": "bb9317d06303f8562de88fdbbdeb1d5df90b6250bd3272a30919fd0e8628e935",
+    "stops.txt": "365b4d46f634dde83cdb336e78eaddf74fb3f77da39548d12507e3b5c100a5e6",
+    "stop_times.txt": "8f4b8d35d5b5aaf060d3fe519edac4828c8e69d2021c146b7ba0e1833211d565",
+    "calendar.txt": "e79c3d52515a3197088a3219e3e8941b0f0e0ea4a69ee473fb38e00be8301af9",
+    "calendar_dates.txt": "47542fe60a4797b037c6e0655cd1d822682a69eb1a573939ead4055473888e83"
+  },
+  "errors": []
+}

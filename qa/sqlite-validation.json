@@ -1,0 +1,41 @@
+{
+  "status": "pass",
+  "counts": {
+    "agencies": 7,
+    "routes": 1023,
+    "trips": 2103,
+    "stops": 1695,
+    "stop_times": 30267,
+    "calendar": 203,
+    "calendar_dates": 19864
+  },
+  "source_counts": {
+    "agency": 7,
+    "routes": 1023,
+    "trips": 2103,
+    "stops": 1695,
+    "stop_times": 30267,
+    "calendar": 203,
+    "calendar_dates": 19864
+  },
+  "tables": [
+    "agencies",
+    "calendar",
+    "calendar_dates",
+    "routes",
+    "stop_times",
+    "stops",
+    "trips"
+  ],
+  "extra_tables": [],
+  "indexes": [
+    "idx_calendar_dates_service",
+    "idx_routes_agency",
+    "idx_stop_times_stop",
+    "idx_stop_times_trip",
+    "idx_trips_route",
+    "idx_trips_service"
+  ],
+  "joined_stop_times": 30267,
+  "errors": []
+}

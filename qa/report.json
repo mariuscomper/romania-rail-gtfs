@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "status": "pass",
+  "checks": {
+    "release": {
+      "status": "pass",
+      "report": "qa/release-validation.json",
+      "returncode": 0,
+      "detail": {
+        "status": "pass",
+        "raw_files": [
+          "agency.txt",
+          "routes.txt",
+          "trips.txt",
+          "stops.txt",
+          "stop_times.txt",
+          "calendar.txt",
+          "calendar_dates.txt"
+        ],
+        "upstream_commit": "a8d353dec5e6ac0c82de58c81c3396d7a78c5de3",
+        "raw_sha256": {
+          "agency.txt": "f9d8e52ea5578a8a4019eb63c629cf0da7e613ddb1ff6255ac364ff5b8440a58",
+          "routes.txt": "e607879e604ff33a65289b4c55bd31558ae7730557bf2c56f54f34b6fed0a3ef",
+          "trips.txt": "bb9317d06303f8562de88fdbbdeb1d5df90b6250bd3272a30919fd0e8628e935",
+          "stops.txt": "365b4d46f634dde83cdb336e78eaddf74fb3f77da39548d12507e3b5c100a5e6",
+          "stop_times.txt": "8f4b8d35d5b5aaf060d3fe519edac4828c8e69d2021c146b7ba0e1833211d565",
+          "calendar.txt": "e79c3d52515a3197088a3219e3e8941b0f0e0ea4a69ee473fb38e00be8301af9",
+          "calendar_dates.txt": "47542fe60a4797b037c6e0655cd1d822682a69eb1a573939ead4055473888e83"
+        },
+        "zip_members": [
+          "agency.txt",
+          "routes.txt",
+          "trips.txt",
+          "stops.txt",
+          "stop_times.txt",
+          "calendar.txt",
+          "calendar_dates.txt"
+        ],
+        "zip_member_sha256": {
+          "agency.txt": "f9d8e52ea5578a8a4019eb63c629cf0da7e613ddb1ff6255ac364ff5b8440a58",
+          "routes.txt": "e607879e604ff33a65289b4c55bd31558ae7730557bf2c56f54f34b6fed0a3ef",
+          "trips.txt": "bb9317d06303f8562de88fdbbdeb1d5df90b6250bd3272a30919fd0e8628e935",
+          "stops.txt": "365b4d46f634dde83cdb336e78eaddf74fb3f77da39548d12507e3b5c100a5e6",
+          "stop_times.txt": "8f4b8d35d5b5aaf060d3fe519edac4828c8e69d2021c146b7ba0e1833211d565",
+          "calendar.txt": "e79c3d52515a3197088a3219e3e8941b0f0e0ea4a69ee473fb38e00be8301af9",
+          "calendar_dates.txt": "47542fe60a4797b037c6e0655cd1d822682a69eb1a573939ead4055473888e83"
+        },
+        "errors": []
+      }
+    },
+    "gtfs": {
+      "status": "pass",
+      "report": "qa/gtfs-validation.json",
+      "returncode": 0,
+      "detail": {
+        "status": "pass",
+        "gtfs_directory": "data/raw/gtfs",
+        "counts": {
+          "agency": 7,
+          "routes": 1023,
+          "trips": 2103,
+          "stops": 1695,
+          "stop_times": 30267,
+          "calendar": 203,
+          "calendar_dates": 19864
+        },
+        "coordinate_coverage": {
+          "with_coordinates": 1695,
+          "percent": 100.0
+        },
+        "route_type_trip_counts": {
+          "102": 36,
+          "103": 217,
+          "105": 43,
+          "106": 1651,
+          "200": 156
+        },
+        "overnight_rollovers_normalized": 0,
+        "boundary_time_fallbacks": 4206,
+        "valid_date_range": [
+          "2025-12-14",
+          "2026-12-12"
+        ],
+        "checks": {
+          "required_files_and_columns": "pass",
+          "unique_keys": "pass",
+          "referential_integrity": "pass",
+          "times_and_sequences": "pass",
+          "coordinates": "pass",
+          "calendar": "pass"
+        },
+        "errors": []
+      }
+    },
+    "sqlite": {
+      "status": "pass",
+      "report": "qa/sqlite-validation.json",
+      "returncode": 0,
+      "detail": {
+        "status": "pass",
+        "counts": {
+          "agencies": 7,
+          "routes": 1023,
+          "trips": 2103,
+          "stops": 1695,
+          "stop_times": 30267,
+          "calendar": 203,
+          "calendar_dates": 19864
+        },
+        "source_counts": {
+          "agency": 7,
+          "routes": 1023,
+          "trips": 2103,
+          "stops": 1695,
+          "stop_times": 30267,
+          "calendar": 203,
+          "calendar_dates": 19864
+        },
+        "tables": [
+          "agencies",
+          "calendar",
+          "calendar_dates",
+          "routes",
+          "stop_times",
+          "stops",
+          "trips"
+        ],
+        "extra_tables": [],
+        "indexes": [
+          "idx_calendar_dates_service",
+          "idx_routes_agency",
+          "idx_stop_times_stop",
+          "idx_stop_times_trip",
+          "idx_trips_route",
+          "idx_trips_service"
+        ],
+        "joined_stop_times": 30267,
+        "errors": []
+      }
+    },
+    "geojson": {
+      "status": "pass",
+      "report": "qa/geojson-validation.json",
+      "returncode": 0,
+      "detail": {
+        "status": "pass",
+        "feature_count": 1695,
+        "stop_count": 1695,
+        "geometry_types": [
+          "Point"
+        ],
+        "operator_count_range": [
+          1,
+          7
+        ],
+        "errors": []
+      }
+    },
+    "atlas": {
+      "status": "pass",
+      "report": "qa/atlas-validation-report.json",
+      "returncode": 0,
+      "detail": {
+        "validated_at_utc": "2026-09-07T01:39:07+00:00",
+        "atlas_sha256": "243e470131135b517e0fe86a9fc4b1b7f01b8e41126c422d1ef6d50d6803ce52",
+        "validity": [
+          "2025-12-14",
+          "2026-12-12"
+        ],
+        "default_date": "2026-07-30",
+        "corridors": 12,
+        "operators": 7,
+        "services": 203,
+        "corridor_train_segments": 1928,
+        "category_segment_counts": {
+          "IR": 341,
+          "R": 954,
+          "R-E": 447,
+          "IC": 67,
+          "IR-N": 101,
+          "R-M": 18
+        },
+        "operator_segment_counts": {
+          "228389": 280,
+          "6100826": 1178,
+          "227098": 209,
+          "236037": 162,
+          "236025": 28,
+          "237330": 37,
+          "247232": 34
+        },
+        "largest_axis_gap": {
+          "corridor": "bucuresti-suceava",
+          "km": 56.559999999999974
+        },
+        "errors": [],
+        "status": "pass"
+      }
+    }
+  },
+  "failed_checks": []
+}

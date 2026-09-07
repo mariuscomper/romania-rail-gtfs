@@ -1,0 +1,39 @@
+{
+  "status": "pass",
+  "gtfs_directory": "data/raw/gtfs",
+  "counts": {
+    "agency": 7,
+    "routes": 1023,
+    "trips": 2103,
+    "stops": 1695,
+    "stop_times": 30267,
+    "calendar": 203,
+    "calendar_dates": 19864
+  },
+  "coordinate_coverage": {
+    "with_coordinates": 1695,
+    "percent": 100.0
+  },
+  "route_type_trip_counts": {
+    "102": 36,
+    "103": 217,
+    "105": 43,
+    "106": 1651,
+    "200": 156
+  },
+  "overnight_rollovers_normalized": 0,
+  "boundary_time_fallbacks": 4206,
+  "valid_date_range": [
+    "2025-12-14",
+    "2026-12-12"
+  ],
+  "checks": {
+    "required_files_and_columns": "pass",
+    "unique_keys": "pass",
+    "referential_integrity": "pass",
+    "times_and_sequences": "pass",
+    "coordinates": "pass",
+    "calendar": "pass"
+  },
+  "errors": []
+}
