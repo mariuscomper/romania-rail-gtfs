@@ -1,0 +1,107 @@
+{
+  "artifacts": {
+    "atlas": "data/derived/atlas/atlas.json",
+    "geojson": "data/derived/stations.geojson",
+    "gtfs_directory": "data/derived/gtfs/",
+    "gtfs_zip": "data/derived/gtfs-romania-feroviar.zip",
+    "sqlite": "data/derived/romania-rail.sqlite"
+  },
+  "counts": {
+    "agencies": 7,
+    "calendar": 203,
+    "calendar_dates": 19864,
+    "multi_operator_stops": 460,
+    "route_type_200_trips": 156,
+    "routes": 1023,
+    "stop_times": 30267,
+    "stops": 1695,
+    "stops_with_coordinates": 1695,
+    "trips": 2103
+  },
+  "operators": [
+    {
+      "agency_id": "6100826",
+      "agency_name": "CFR Călători",
+      "routes": 730,
+      "trips": 1135
+    },
+    {
+      "agency_id": "228389",
+      "agency_name": "Transferoviar Calatori",
+      "routes": 78,
+      "trips": 387
+    },
+    {
+      "agency_id": "227098",
+      "agency_name": "Regio Călători",
+      "routes": 99,
+      "trips": 277
+    },
+    {
+      "agency_id": "236037",
+      "agency_name": "InterRegional Călători",
+      "routes": 82,
+      "trips": 249
+    },
+    {
+      "agency_id": "237330",
+      "agency_name": "Astra Trans Carpatic",
+      "routes": 13,
+      "trips": 21
+    },
+    {
+      "agency_id": "247232",
+      "agency_name": "Ferotrafic - T.F.I. S.R.L.",
+      "routes": 12,
+      "trips": 18
+    },
+    {
+      "agency_id": "236025",
+      "agency_name": "Softrans",
+      "routes": 9,
+      "trips": 16
+    }
+  ],
+  "publisher": {
+    "name": "S.C. Informatică Feroviară S.A.",
+    "organization_url": "https://data.gov.ro/organization/9b0bc5fc-2062-4aef-b916-b48b7c459af7?organization=sc-informatica-feroviara-sa",
+    "portal": "data.gov.ro"
+  },
+  "route_type_trip_counts": {
+    "102": 36,
+    "103": 217,
+    "105": 43,
+    "106": 1651,
+    "200": 156
+  },
+  "schema_version": 1,
+  "scope": {
+    "freight_included": false,
+    "realtime_included": false,
+    "replacement_bus_route_type_200": "retained in GTFS and SQLite; excluded from the rail atlas",
+    "transport": "passenger rail"
+  },
+  "snapshot": {
+    "build_generated_at": "2026-09-07T00:00:00+00:00",
+    "default_view_date": "2026-07-30",
+    "raw_directory": "https://raw.githubusercontent.com/vasile/data.gov.ro-gtfs-exporter/a8d353dec5e6ac0c82de58c81c3396d7a78c5de3/gtfs-out",
+    "sha256": {
+      "agency.txt": "f9d8e52ea5578a8a4019eb63c629cf0da7e613ddb1ff6255ac364ff5b8440a58",
+      "calendar.txt": "e79c3d52515a3197088a3219e3e8941b0f0e0ea4a69ee473fb38e00be8301af9",
+      "calendar_dates.txt": "47542fe60a4797b037c6e0655cd1d822682a69eb1a573939ead4055473888e83",
+      "routes.txt": "e607879e604ff33a65289b4c55bd31558ae7730557bf2c56f54f34b6fed0a3ef",
+      "stop_times.txt": "8f4b8d35d5b5aaf060d3fe519edac4828c8e69d2021c146b7ba0e1833211d565",
+      "stops.txt": "365b4d46f634dde83cdb336e78eaddf74fb3f77da39548d12507e3b5c100a5e6",
+      "trips.txt": "bb9317d06303f8562de88fdbbdeb1d5df90b6250bd3272a30919fd0e8628e935"
+    },
+    "type": "static-modeled-schedule",
+    "upstream_commit": "a8d353dec5e6ac0c82de58c81c3396d7a78c5de3",
+    "upstream_repository": "https://github.com/vasile/data.gov.ro-gtfs-exporter",
+    "valid_from": "2025-12-14",
+    "valid_to": "2026-12-12"
+  },
+  "valid_date_range": [
+    "2025-12-14",
+    "2026-12-12"
+  ]
+}
