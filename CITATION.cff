@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this archive, cite the snapshot and retain the source attribution described in LICENSES.md."
+title: "Romania rail GTFS"
+version: "2026.09.07"
+date-released: 2026-09-07
+authors:
+  - family-names: Comper
+    given-names: Marius
+repository-code: "https://github.com/mariuscomper/romania-rail-gtfs"
+url: "https://mariuscomper.uk/gtfs-feroviar/"
+keywords:
+  - GTFS
+  - railways
+  - Romania
+  - open data
+  - public transport
+license: "MIT for original code; data terms are documented in LICENSES.md"

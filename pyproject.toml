@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "romania-rail-gtfs"
+version = "2026.09.07"
+description = "Reproducible Romanian passenger-rail GTFS release with SQLite, GeoJSON, graph data and validators."
+requires-python = ">=3.10"
+readme = "README.md"
+license = { file = "LICENSE-CODE" }
+authors = [{ name = "Marius Comper" }]
+dependencies = []
+
+[tool.setuptools]
+py-modules = []
