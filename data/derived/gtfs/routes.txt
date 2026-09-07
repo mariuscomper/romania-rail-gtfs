@@ -1,0 +1,1024 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1,228389,,Măneciu - Ploieşti Sud,106
+2,228389,,Bârlad - Chiraftei h.,200
+3,228389,,Chiraftei h. - Bârlad,200
+4,228389,,Aghireş Hm. - Cluj Napoca,200
+5,228389,,Nehoiaşu Hm. - Buzău,106
+6,228389,,Galaţi - Târgu Bujor,106
+7,228389,,Ploieşti Sud - Slănic Hm.,106
+8,228389,,Titan Sud Hm. - Olteniţa,106
+9,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+10,228389,,Chiraftei h. - Galaţi,106
+11,228389,,Adjud - Bucureşti Nord Gr.A,106
+12,228389,,Cluj Napoca - Oradea,200
+13,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
+14,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+15,228389,,Bucureşti Nord Gr.A - Târgovişte,106
+16,228389,,Roşiori Nord - Bucureşti Nord Gr.B,106
+17,228389,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+18,228389,,Olteniţa - Titan Sud Hm.,106
+19,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+20,228389,,Bucureşti Nord Gr.A - Braşov,103
+21,228389,,Slănic Hm. - Ploieşti Sud,106
+22,228389,,Târgu Bujor - Galaţi,106
+23,228389,,Galaţi - Constanţa,103
+24,228389,,Târgu Bujor - Bârlad,200
+25,228389,,Pietroşiţa Hm. - Târgovişte,106
+26,228389,,Bonţida Hm. - Cluj Napoca,106
+27,228389,,Bereşti Hm. - Târgu Bujor,200
+28,228389,,Buzău - Nehoiaşu Hm.,106
+29,228389,,Târgovişte - Pietroşiţa Hm.,106
+30,228389,,Ploieşti Sud - Măneciu,106
+31,228389,,Roşiori Nord - Bucureşti Nord Gr.A,106
+32,228389,,Oradea - Cluj Napoca,200
+33,228389,,Constanţa - Bucureşti Nord Gr.A,103
+34,228389,,Braşov - Cluj Napoca,103
+35,228389,,Mangalia - Buzău,103
+36,228389,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+37,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
+38,228389,,Chiraftei h. - Târgu Bujor,200
+39,228389,,Bucureşti Nord Gr.A - Buzău,106
+40,228389,,Bârlad - Târgu Bujor,200
+41,228389,,Târgu Bujor - Chiraftei h.,200
+42,228389,,Târgovişte - Bucureşti Nord Gr.A,106
+43,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+44,228389,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+45,228389,,Chiraftei h. - Bereşti Hm.,200
+46,228389,,Cluj Napoca - Bonţida Hm.,106
+47,228389,,Braşov - Bucureşti Nord Gr.A,103
+48,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
+49,228389,,Bucureşti Nord Gr.A - Adjud,106
+50,228389,,Galaţi - Bucureşti Nord Gr.A,103
+51,228389,,Galaţi - Chiraftei h.,106
+52,228389,,Constanţa - Galaţi,103
+53,228389,,Feteşti - Bucureşti Nord Gr.A,106
+54,228389,,Roşiori Nord - Bucureşti Nord Gr.A,106
+55,228389,,Bereşti Hm. - Chiraftei h.,200
+56,228389,,Buzău - Bucureşti Nord Gr.A,106
+57,228389,,Bucureşti Nord Gr.B - Roşiori Nord,106
+58,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+59,228389,,Cluj Napoca - Aghireş Hm.,200
+60,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+61,228389,,Bucureşti Nord Gr.A - Târgovişte,106
+62,228389,,Bucureşti Nord Gr.A - Mangalia,103
+63,228389,,Târgu Bujor - Bereşti Hm.,200
+64,228389,,Târgovişte - Ploieşti Sud,106
+65,228389,,Bucureşti Nord Gr.A - Constanţa,103
+66,228389,,Bucureşti Nord Gr.B - Roşiori Nord,106
+67,228389,,Bucureşti Nord Gr.A - Feteşti,106
+68,228389,,Buzău - Mangalia,103
+69,228389,,Cluj Napoca - Braşov,103
+70,228389,,Roşiori Nord - Bucureşti Nord Gr.B,106
+71,228389,,Bucureşti Nord Gr.A - Galaţi,103
+72,228389,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+73,228389,,Mangalia - Bucureşti Nord Gr.A,103
+74,228389,,Bucureşti Nord Gr.A - Galaţi,103
+75,228389,,Ploieşti Sud - Târgovişte,106
+76,228389,,Bucureşti Nord Gr.A - Feteşti,106
+77,228389,,Buzău - Bucureşti Nord Gr.A,106
+78,228389,,Târgu Bujor - Bârlad,200
+79,237330,,Mangalia - Bucureşti Nord Gr.A,103
+80,237330,,Arad - Constanţa,105
+81,237330,,Bucureşti Nord Gr.A - Mangalia,103
+82,237330,,Braşov - Bucureşti Nord Gr.A,103
+83,237330,,Bucureşti Nord Gr.A - Titu,103
+84,237330,,Bucureşti Nord Gr.A - Braşov,103
+85,237330,,Constanţa - Arad,105
+86,237330,,Bucureşti Nord Gr.A - Arad,105
+87,237330,,Bucureşti Nord Gr.A - Adjud,106
+88,237330,,Titu - Bucureşti Nord Gr.A,103
+89,237330,,Titu - Bucureşti Nord Gr.A,103
+90,237330,,Arad - Bucureşti Nord Gr.A,105
+91,237330,,Adjud - Bucureşti Nord Gr.A,106
+92,247232,,Bucureşti Nord Gr.A - Constanţa,102
+93,247232,,Iaşi - Bucureşti Nord Gr.A,102
+94,247232,,Suceava - Bucureşti Nord Gr.A,102
+95,247232,,Constanţa - Bucureşti Nord Gr.A,102
+96,247232,,Bucureşti Nord Gr.A - Iaşi,102
+97,247232,,Mangalia - Suceava,102
+98,247232,,Mangalia - Iaşi,102
+99,247232,,Iaşi - Mangalia,102
+100,247232,,Bucureşti Nord Gr.A - Suceava,102
+101,247232,,Suceava - Mangalia,102
+102,247232,,Suceava - Bucureşti Nord Gr.A,102
+103,247232,,Bucureşti Nord Gr.A - Suceava,102
+104,236037,,Timişoara Nord - Cluj Napoca,103
+105,236037,,Huedin - Cluj Napoca,200
+106,236037,,Bistriţa Bârgăului hcv. - Bistriţa Nord,106
+107,236037,,Cluj Napoca - Bistriţa Nord,106
+108,236037,,Mediaş - Sibiu,106
+109,236037,,Cluj Napoca - Câmpia Turzii,106
+110,236037,,Cluj Napoca - Huedin,200
+111,236037,,Letca Hm. - Jibou,106
+112,236037,,Cluj Napoca - Sibiu,106
+113,236037,,Bistriţa Nord - Cluj Napoca,106
+114,236037,,Oradea - Valea lui Mihai,106
+115,236037,,Deda - Târgu Mureş,106
+116,236037,,Cluj Napoca - Timişoara Nord,103
+117,236037,,Târgu Mureş - Câmpia Turzii,106
+118,236037,,Câmpia Turzii - Târgu Mureş,106
+119,236037,,Halmeu - Satu Mare,106
+120,236037,,Bratca Hm. - Oradea,200
+121,236037,,Bistriţa Nord - Bistriţa Bârgăului hcv.,106
+122,236037,,Bistriţa Nord - Cluj Napoca,106
+123,236037,,Baia Mare - Jibou,106
+124,236037,,Sibiu - Cluj Napoca,106
+125,236037,,Sibiu - Mediaş,106
+126,236037,,Târgu Mureş - Deda,106
+127,236037,,Braşov - Cluj Napoca,103
+128,236037,,Arad - Caransebeş,106
+129,236037,,Jibou - Baia Mare,106
+130,236037,,Oradea - Satu Mare,106
+131,236037,,Satu Mare - Halmeu,106
+132,236037,,Bistriţa Nord - Cluj Napoca,106
+133,236037,,Cluj Napoca - Bucureşti Nord Gr.A,103
+134,236037,,Bistriţa Nord - Bistriţa Bârgăului hcv.,106
+135,236037,,Satu Mare - Oradea,106
+136,236037,,Satu Mare - Baia Mare,106
+137,236037,,Cluj Napoca - Târgu Mureş,106
+138,236037,,Cluj Napoca - Bucureşti Nord Gr.A,103
+139,236037,,Oradea - Bratca Hm.,200
+140,236037,,Târgu Mureş - Cluj Napoca,106
+141,236037,,Braşov - Cluj Napoca,103
+142,236037,,Cluj Napoca - Dej Călători,106
+143,236037,,Cluj Napoca - Sibiu,106
+144,236037,,Cluj Napoca - Câmpia Turzii,106
+145,236037,,Cluj Napoca - Stana Hm.,200
+146,236037,,Timişoara Nord - Cluj Napoca,103
+147,236037,,Valea lui Mihai - Oradea,106
+148,236037,,Cluj Napoca - Oradea,106
+149,236037,,Jibou - Letca Hm.,106
+150,236037,,Lunca Ilvei - Bistriţa Nord,106
+151,236037,,Cluj Napoca - Bistriţa Nord,106
+152,236037,,Braşov - Cluj Napoca,103
+153,236037,,Dej Călători - Cluj Napoca,106
+154,236037,,Lunca Ilvei - Beclean pe Someş,106
+155,236037,,Câmpia Turzii - Cluj Napoca,106
+156,236037,,Stana Hm. - Cluj Napoca,200
+157,236037,,Timişoara Nord - Oradea,106
+158,236037,,Oradea - Satu Mare,106
+159,236037,,Baia Mare - Satu Mare,106
+160,236037,,Beclean pe Someş - Bistriţa Nord,106
+161,236037,,Bucureşti Nord Gr.A - Cluj Napoca,103
+162,236037,,Oradea - Timişoara Nord,106
+163,236037,,Topliţa - Târgu Mureş,106
+164,236037,,Cluj Napoca - Timişoara Nord,103
+165,236037,,Caransebeş - Arad,106
+166,236037,,Bucureşti Nord Gr.A - Cluj Napoca,103
+167,236037,,Câmpia Turzii - Cluj Napoca,106
+168,236037,,Târgu Mureş - Cluj Napoca,106
+169,236037,,Oradea - Bratca Hm.,200
+170,236037,,Târgu Mureş - Topliţa,106
+171,236037,,Oradea - Cluj Napoca,106
+172,236037,,Dej Călători - Cluj Napoca,106
+173,236037,,Cluj Napoca - Braşov,103
+174,236037,,Târgu Mureş - Topliţa,106
+175,236037,,Oradea - Timişoara Nord,106
+176,236037,,Cluj Napoca - Bistriţa Nord,106
+177,236037,,Bucureşti Nord Gr.A - Cluj Napoca,103
+178,236037,,Timişoara Nord - Oradea,106
+179,236037,,Cluj Napoca - Bucureşti Nord Gr.A,103
+180,236037,,Sibiu - Cluj Napoca,106
+181,236037,,Beclean pe Someş - Lunca Ilvei,106
+182,236037,,Cluj Napoca - Braşov,103
+183,236037,,Arad - Caransebeş,106
+184,236037,,Baia Mare - Jibou,106
+185,236037,,Bistriţa Nord - Lunca Ilvei,106
+186,227098,,Braşov - Breţcu Hm.,106
+187,227098,,Buhăieşti - Roman,106
+188,227098,,Roman - Buhăieşti,106
+189,227098,,Bucureşti Nord Gr.A - Braşov,106
+190,227098,,Zărneşti - Braşov,106
+191,227098,,Blaj - Târnăveni Hm.,106
+192,227098,,Iaşi - Suceava Nord Hm.,106
+193,227098,,Dorohoi Hm. - Iaşi,106
+194,227098,,Zărneşti - Braşov,106
+195,227098,,Arad - Nădlac Hm.,106
+196,227098,,Iaşi - Hârlău,106
+197,227098,,Nădlac Hm. - Arad,106
+198,227098,,Suceava Nord Hm. - Iaşi,106
+199,227098,,Timişoara Nord - Reşiţa Nord,106
+200,227098,,Braşov - Zărneşti,106
+201,227098,,Iaşi - Dorohoi Hm.,106
+202,227098,,Alba Iulia - Zlatna hcv.,106
+203,227098,,Timişoara Nord - Reşiţa Nord,106
+204,227098,,Ploieşti Sud - Urziceni,106
+205,227098,,Roman - Dagâţa Hm.,106
+206,227098,,Cenad h. - Sânnicolau Mare Hm.,200
+207,227098,,Blaj - Bălăuşeri hcv.,106
+208,227098,,Urziceni - Ploieşti Sud,106
+209,227098,,Braşov - Întorsura Buzăului Hm,106
+210,227098,,Suceava - Galaţi,103
+211,227098,,Întorsura Buzăului Hm - Braşov,106
+212,227098,,Timişoara Nord - Caransebeş,106
+213,227098,,Cruceni hcv. - Timişoara Nord,106
+214,227098,,Zlatna hcv. - Alba Iulia,106
+215,227098,,Dagâţa Hm. - Buhăieşti,106
+216,227098,,Hârlău - Iaşi,106
+217,227098,,Timişoara Nord - Reşiţa Nord,106
+218,227098,,Sărmaşu h. - Bistriţa Nord,106
+219,227098,,Arad - Nădlac Hm.,106
+220,227098,,Mărăşeşti - Ploieşti Vest,106
+221,227098,,Truşeşti Hm. - Iaşi,106
+222,227098,,Arad - Sânnicolau Mare Hm.,106
+223,227098,,Sânnicolau Mare Hm. - Arad,106
+224,227098,,Timişoara Nord - Remetea Mică Hm,106
+225,227098,,Sărmaşel hcv. - Luduş Hm.,106
+226,227098,,Ploieşti Sud - Drăgăneşti Prahova Hm.,106
+227,227098,,Braşov - Bucureşti Nord Gr.A,106
+228,227098,,Breţcu Hm. - Sfântu Gheorghe,106
+229,227098,,Luduş Hm. - Bistriţa Nord,106
+230,227098,,Reşiţa Nord - Timişoara Nord,106
+231,227098,,Suceava - Constanţa,103
+232,227098,,Remetea Mică Hm - Timişoara Nord,106
+233,227098,,Bucureşti Nord Gr.A - Adjud,106
+234,227098,,Târnăveni Hm. - Blaj,106
+235,227098,,Nădlac Hm. - Arad,106
+236,227098,,Roman - Iaşi,106
+237,227098,,Caransebeş - Timişoara Nord,106
+238,227098,,Timişoara Nord - Reşiţa Nord,106
+239,227098,,Breţcu Hm. - Braşov,106
+240,227098,,Iaşi - Vaslui,106
+241,227098,,Timişoara Nord - Cruceni hcv.,106
+242,227098,,Sfântu Gheorghe - Braşov,106
+243,227098,,Timişoara Nord - Caransebeş,106
+244,227098,,Timişoara Nord - Sânnicolau Mare Hm.,106
+245,227098,,Braşov - Zărneşti,106
+246,227098,,Sânnicolau Mare Hm. - Cenad h.,200
+247,227098,,Sărmaşel hcv. - Bistriţa Nord,106
+248,227098,,Vaslui - Iaşi,106
+249,227098,,Braşov - Mangalia,103
+250,227098,,Adjud - Bucureşti Nord Gr.A,106
+251,227098,,Mărăşeşti - Iaşi,106
+252,227098,,Sânnicolau Mare Hm. - Vălcani hcv.,106
+253,227098,,Luduş Hm. - Sărmaşel hcv.,106
+254,227098,,Iaşi - Mărăşeşti,106
+255,227098,,Vălcani hcv. - Arad,106
+256,227098,,Bălăuşeri hcv. - Blaj,106
+257,227098,,Braşov - Întorsura Buzăului Hm,106
+258,227098,,Întorsura Buzăului Hm - Braşov,106
+259,227098,,Timişoara Nord - Sânnicolau Mare Hm.,106
+260,227098,,Constanţa - Suceava,103
+261,227098,,Sânnicolau Mare Hm. - Timişoara Nord,106
+262,227098,,Bistriţa Nord - Sărmaşel hcv.,106
+263,227098,,Mărăşeşti - Iaşi,106
+264,227098,,Iaşi - Roman,106
+265,227098,,Galaţi - Suceava,103
+266,227098,,Sfântu Gheorghe - Breţcu Hm.,106
+267,227098,,Reşiţa Nord - Timişoara Nord,106
+268,227098,,Timişoara Nord - Reşiţa Nord,106
+269,227098,,Dagâţa Hm. - Roman,106
+270,227098,,Iaşi - Truşeşti Hm.,106
+271,227098,,Bistriţa Nord - Luduş Hm.,106
+272,227098,,Ploieşti Vest - Mărăşeşti,106
+273,227098,,Miceştii de Câmpie h. - Bistriţa Nord,106
+274,227098,,Bălăuşeri hcv. - Târnăveni Hm.,106
+275,227098,,Iaşi - Mărăşeşti,106
+276,227098,,Drăgăneşti Prahova Hm. - Urziceni,106
+277,227098,,Cruceni hcv. - Timişoara Nord,106
+278,227098,,Mangalia - Braşov,103
+279,227098,,Constanţa - Bucureşti Nord Gr.A,106
+280,227098,,Bistriţa Nord - Miceştii de Câmpie h.,106
+281,227098,,Sânnicolau Mare Hm. - Timişoara Nord,106
+282,227098,,Buhăieşti - Dagâţa Hm.,106
+283,227098,,Reşiţa Nord - Timişoara Nord,106
+284,227098,,Bucureşti Nord Gr.A - Constanţa,106
+285,6100826,,Vatra Dornei - Bistriţa Nord,106
+286,6100826,,Valea lui Mihai - Satu Mare,106
+287,6100826,,Oradea - Halmeu,106
+288,6100826,,Sărmăşag Hm. - Jibou,106
+289,6100826,,Cluj Napoca - Dej Călători,106
+290,6100826,,Mărăşeşti - Galaţi,106
+291,6100826,,Piatra Olt - Piteşti,106
+292,6100826,,Timişoara Nord - Arad,106
+293,6100826,,Comăneşti - Miercurea Ciuc,106
+294,6100826,,Satu Mare - Jibou,106
+295,6100826,,Timişoara Nord - Caransebeş,106
+296,6100826,,Caransebeş - Orşova,106
+297,6100826,,Bistriţa Nord - Dej Călători,106
+298,6100826,,Dej Călători - Bistriţa Nord,106
+299,6100826,,Sibiu - Miercurea Sibiu Hm.,106
+300,6100826,,Paşcani - Iaşi,106
+301,6100826,,Bucureşti Nord Gr.A - Suceava,102
+302,6100826,,Videle - Giurgiu,106
+303,6100826,,Sibiu - Mediaş,106
+304,6100826,,Biharkeresztes - Oradea,106
+305,6100826,,Jibou - Carei,106
+306,6100826,,Bucureşti Progresu - Giurgiu,106
+307,6100826,,Timişoara Nord - Iaşi,103
+308,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+309,6100826,,Petroşani - Simeria,106
+310,6100826,,Ungheni Prut Hm. - Iaşi,106
+311,6100826,,Miercurea Ciuc - Mărăşeşti,106
+312,6100826,,Bucureşti Nord Gr.A - Iaşi,102
+313,6100826,,Goleşti - Parcul Kreţulescu h.,106
+314,6100826,,Constanţa - Bucureşti Nord Gr.A,103
+315,6100826,,Urziceni - Ciulniţa,106
+316,6100826,,Bucureşti Nord Gr.A - Satu Mare,105
+317,6100826,,Mangalia - Constanţa,106
+318,6100826,,Oradea - Biharkeresztes,106
+319,6100826,,Constanţa - Bucureşti Nord Gr.A,103
+320,6100826,,Craiova - Petroşani,106
+321,6100826,,Nyirabrany - Valea lui Mihai,106
+322,6100826,,Oradea - Timişoara Nord,106
+323,6100826,,Sărăţel Hm. - Bistriţa Nord,106
+324,6100826,,Curtea de Argeş Hm. - Piteşti,106
+325,6100826,,Sibiu - Piatra Olt,106
+326,6100826,,Bratca Hm. - Huedin,200
+327,6100826,,Deva - Simeria,106
+328,6100826,,Orşova - Timişoara Nord,106
+329,6100826,,Simeria - Arad,106
+330,6100826,,Bucureşti Nord Gr.A - Buzău,106
+331,6100826,,Iaşi - Bucureşti Nord Gr.A,103
+332,6100826,,Mangalia - Constanţa,200
+333,6100826,,Săvârşin - Simeria,106
+334,6100826,,Ciulniţa - Slobozia Veche,106
+335,6100826,,Bucureşti Nord Gr.A - Bucureşti Progresu,106
+336,6100826,,Băile Tuşnad Hm. - Siculeni,106
+337,6100826,,Gurahonţ Hm. - Arad,106
+338,6100826,,Piatra Neamţ - Bacău,106
+339,6100826,,Buzău - Brazi,106
+340,6100826,,Cluj Napoca - Galaţi,103
+341,6100826,,Seini Hm. - Satu Mare,106
+342,6100826,,Bistriţa Nord - Cluj Napoca,106
+343,6100826,,Alexandria - Roşiori Nord,106
+344,6100826,,Kotegyan - Salonta,106
+345,6100826,,Teiuş - Simeria,106
+346,6100826,,Cluj Napoca - Oradea,200
+347,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+348,6100826,,Craiova - Roşiori Nord,106
+349,6100826,,Buzău - Ploieşti Sud,106
+350,6100826,,Timişoara Nord - Satu Mare,103
+351,6100826,,Craiova - Târgu Jiu,106
+352,6100826,,Ploieşti Sud - Bucureşti Nord Gr.B,106
+353,6100826,,Constanţa - Braşov,102
+354,6100826,,Bucureşti Nord Gr.A - Roşiori Nord,106
+355,6100826,,Paşcani - Târgu Neamţ Hm.,106
+356,6100826,,Mangalia - Constanţa,106
+357,6100826,,Adjud - Bucureşti Nord Gr.A,106
+358,6100826,,Dej Călători - Cluj Napoca,106
+359,6100826,,Iaşi - Vaslui,106
+360,6100826,,Vişeu de Jos - Sighetu Marmaţiei,106
+361,6100826,,Reşiţa Sud Hm. - Caransebeş,106
+362,6100826,,Constanţa - Mangalia,200
+363,6100826,,Bucureşti Nord Gr.A - Ruse,105
+364,6100826,,Bucureşti Nord Gr.A - Cluj Napoca,102
+365,6100826,,Bucureşti Nord Gr.A - Fundulea Hm.,106
+366,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+367,6100826,,Fundulea Hm. - Bucureşti Nord Gr.A,106
+368,6100826,,Ciucea Hm. - Cluj Napoca,200
+369,6100826,,Târgu Jiu - Craiova,106
+370,6100826,,Craiova - Bucureşti Nord Gr.A,103
+371,6100826,,Bistriţa Nord - Sărăţel Hm.,106
+372,6100826,,Jibou - Sărmăşag Hm.,106
+373,6100826,,Craiova - Băileşti,106
+374,6100826,,Paşcani - Iaşi,103
+375,6100826,,Galaţi - Bucureşti Nord Gr.A,102
+376,6100826,,Lugoj - Timişoara Nord,106
+377,6100826,,Cluj Napoca - Braşov,105
+378,6100826,,Bucureşti Nord Gr.A - Arad,103
+379,6100826,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+380,6100826,,Iaşi - Suceava Nord Hm.,106
+381,6100826,,Buziaş Hm. - Lugoj,106
+382,6100826,,Bucureşti Nord Gr.A - Târgovişte,106
+383,6100826,,Deva - Bucureşti Nord Gr.A,103
+384,6100826,,Bucureşti Nord Gr.A - Adjud,106
+385,6100826,,Arad - Simeria,106
+386,6100826,,Lovrin Hm. - Timişoara Nord,106
+387,6100826,,Bucureşti Nord Gr.B - Roşiori Nord,106
+388,6100826,,Timişoara Nord - Lovrin Hm.,106
+389,6100826,,Bucureşti Nord Gr.A - Deva,103
+390,6100826,,Caransebeş - Timişoara Nord,106
+391,6100826,,Piteşti - Bucureşti Nord Gr.B,106
+392,6100826,,Suceava - Mărăşeşti,102
+393,6100826,,Valea lui Mihai - Nyirabrany,106
+394,6100826,,Constanţa - Mangalia,106
+395,6100826,,Gheorgheni - Braşov,106
+396,6100826,,Craiova - Piteşti,106
+397,6100826,,Târgu Neamţ Hm. - Paşcani,106
+398,6100826,,Caracal - Păuşa h.,106
+399,6100826,,Bicaz Hm. - Piatra Neamţ,106
+400,6100826,,Mangalia - Constanţa,106
+401,6100826,,Braşov - Gheorgheni,106
+402,6100826,,Bucureşti Nord Gr.A - Braşov,106
+403,6100826,,Paşcani - Suceava Nord Hm.,106
+404,6100826,,Făgăraş - Braşov,106
+405,6100826,,Călăraşi Sud - Feteşti,106
+406,6100826,,Beclean pe Someş - Sighetu Marmaţiei,106
+407,6100826,,Târgovişte - Bucureşti Nord Gr.A,106
+408,6100826,,Siculeni - Miercurea Ciuc,106
+409,6100826,,Lugoj - Buziaş Hm.,106
+410,6100826,,Făgăraş - Sibiu,106
+411,6100826,,Baia Mare - Cluj Napoca,106
+412,6100826,,Constanţa - Feteşti,106
+413,6100826,,Constanţa - Galaţi,103
+414,6100826,,Salonta - Kotegyan,106
+415,6100826,,Dej Călători - Ilva Mică Hm.,106
+416,6100826,,Suceava Nord Hm. - Paşcani,106
+417,6100826,,Târgu Jiu - Craiova,106
+418,6100826,,Timişoara Nord - Constanţa,105
+419,6100826,,Cluj Napoca - Dej Călători,106
+420,6100826,,Deda - Bistriţa Nord,106
+421,6100826,,Teiuş - Arad,102
+422,6100826,,Sibiu - Sighişoara,106
+423,6100826,,Buzău - Adjud,106
+424,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+425,6100826,,Piatra Olt - Corabia Hm.,106
+426,6100826,,Drobeta Tr. Severin - Craiova,106
+427,6100826,,Buzău - Ploieşti Sud,106
+428,6100826,,Arad - Bucureşti Nord Gr.A,105
+429,6100826,,Piteşti - Craiova,106
+430,6100826,,Petroşani - Târgu Jiu,106
+431,6100826,,Arad - Curtici,106
+432,6100826,,Bucureşti Nord Gr.A - Lokoshaza,105
+433,6100826,,Teiuş - Mediaş,106
+434,6100826,,Braşov - Ploieşti Sud,106
+435,6100826,,Baia Mare - Nyirabrany,103
+436,6100826,,Caransebeş - Timişoara Nord,106
+437,6100826,,Bistriţa Nord - Deda,106
+438,6100826,,Cluj Napoca - Bistriţa Nord,106
+439,6100826,,Bucureşti Nord Gr.A - Târgovişte,106
+440,6100826,,Mărăşeşti - Buzău,106
+441,6100826,,Suceava - Ilva Mică Hm.,106
+442,6100826,,Braşov - Gheorgheni,106
+443,6100826,,Caransebeş - Arad,106
+444,6100826,,Piteşti - Piatra Olt,106
+445,6100826,,Bucureşti Nord Gr.A - Constanţa,103
+446,6100826,,Craiova - Drobeta Tr. Severin,106
+447,6100826,,Bucureşti Nord Gr.A - Cluj Napoca,103
+448,6100826,,Bucureşti Nord Gr.A - Urziceni,106
+449,6100826,,Ploieşti Sud - Braşov,106
+450,6100826,,Suceava - Putna Hm.,106
+451,6100826,,Galaţi - Buzău,106
+452,6100826,,Bacău - Suceava Nord Hm.,106
+453,6100826,,Braşov - Mediaş,106
+454,6100826,,Mărăşeşti - Siculeni,106
+455,6100826,,Piatra Olt - Podu Olt,106
+456,6100826,,Craiova - Piteşti,106
+457,6100826,,Lokoshaza - Arad,103
+458,6100826,,Bucureşti Nord Gr.A - Buzău,106
+459,6100826,,Târgu Mureş - Războieni,106
+460,6100826,,Lokoshaza - Bucureşti Nord Gr.A,105
+461,6100826,,Iaşi - Bacău,106
+462,6100826,,Bucureşti Nord Gr.A - Lokoshaza,105
+463,6100826,,Titu - Târgovişte,106
+464,6100826,,Arad - Teiuş,102
+465,6100826,,Feteşti - Bucureşti Obor Hm.,106
+466,6100826,,Piatra Olt - Corabia Hm.,106
+467,6100826,,Roşiori Nord - Craiova,106
+468,6100826,,Bistriţa Nord - Deda,106
+469,6100826,,Bucureşti Nord Gr.A - Braşov,103
+470,6100826,,Bucureşti Nord Gr.A - Iaşi,103
+471,6100826,,Mangalia - Constanţa,106
+472,6100826,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+473,6100826,,Cluj Napoca - Dej Călători,106
+474,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
+475,6100826,,Zalău Nord - Jibou,106
+476,6100826,,Războieni - Târgu Mureş,106
+477,6100826,,Bucureşti Nord Gr.A - Ruse,106
+478,6100826,,Drobeta Tr. Severin - Filiaşi,106
+479,6100826,,Braşov - Siculeni,106
+480,6100826,,Suceava Nord Hm. - Botoşani,106
+481,6100826,,Caransebeş - Reşiţa Sud Hm.,106
+482,6100826,,Cluj Napoca - Bistriţa Nord,106
+483,6100826,,Timişoara Nord - Caransebeş,106
+484,6100826,,Bucureşti Nord Gr.A - Bacău,103
+485,6100826,,Sibiu - Râmnicu Vâlcea,106
+486,6100826,,Constanţa - Mangalia,106
+487,6100826,,Ungheni Prut Fr. - Iaşi,106
+488,6100826,,Cluj Napoca - Mediaş,106
+489,6100826,,Siculeni - Braşov,106
+490,6100826,,Craiova - Sibiu,106
+491,6100826,,Jibou - Zalău Nord,106
+492,6100826,,Tulcea Oraş Hm. - Constanţa,106
+493,6100826,,Bucureşti Nord Gr.A - Constanţa,103
+494,6100826,,Arad - Lokoshaza,103
+495,6100826,,Cluj Napoca - Oradea,200
+496,6100826,,Margina - Lugoj,106
+497,6100826,,Jibou - Zalău Nord,106
+498,6100826,,Bacău - Suceava Nord Hm.,106
+499,6100826,,Miercurea Ciuc - Comăneşti,106
+500,6100826,,Piteşti - Bucureşti Nord Gr.B,106
+501,6100826,,Galaţi - Mărăşeşti,106
+502,6100826,,Băile Herculane - Caransebeş,106
+503,6100826,,Galaţi - Constanţa,103
+504,6100826,,Iaşi - Bucureşti Nord Gr.A,102
+505,6100826,,Simeria - Braşov,103
+506,6100826,,Rupea - Braşov,106
+507,6100826,,Nyirabrany - Satu Mare,106
+508,6100826,,Timişoara Nord - Lugoj,106
+509,6100826,,Timişoara Nord - Arad,106
+510,6100826,,Braşov - Sibiu,106
+511,6100826,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+512,6100826,,Bistriţa Nord - Vatra Dornei,106
+513,6100826,,Miercurea Sibiu Hm. - Sibiu,106
+514,6100826,,Craiova - Calafat,106
+515,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+516,6100826,,Salva - Ilva Mică Hm.,106
+517,6100826,,Putna Hm. - Suceava,106
+518,6100826,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+519,6100826,,Cluj Napoca - Teiuş,106
+520,6100826,,Tulcea Oraş Hm. - Medgidia,106
+521,6100826,,Craiova - Târgu Jiu,106
+522,6100826,,Bucureşti Nord Gr.B - Piteşti,106
+523,6100826,,Constanţa - Sibiu,103
+524,6100826,,Petroşani - Târgu Jiu,106
+525,6100826,,Bistriţa Nord - Cluj Napoca,106
+526,6100826,,Curtici - Arad,106
+527,6100826,,Buzău - Mărăşeşti,106
+528,6100826,,Gheorgheni - Braşov,106
+529,6100826,,Cacica Hm. - Iaşi,106
+530,6100826,,Iaşi - Tecuci,106
+531,6100826,,Bacău - Piatra Neamţ,106
+532,6100826,,Deda - Miercurea Ciuc,106
+533,6100826,,Râmnicu Vâlcea - Piatra Olt,106
+534,6100826,,Brazi - Buzău,106
+535,6100826,,Botoşani - Suceava,106
+536,6100826,,Mangalia - Constanţa,106
+537,6100826,,Iaşi - Cluj Napoca,103
+538,6100826,,Iaşi - Ungheni,106
+539,6100826,,Roşiori Nord - Alexandria,106
+540,6100826,,Nyirabrany - Baia Mare,103
+541,6100826,,Baia Mare - Timişoara Nord,103
+542,6100826,,Buziaş Hm. - Timişoara Nord,106
+543,6100826,,Bacău - Bicaz Hm.,106
+544,6100826,,Giurgiu - Videle,106
+545,6100826,,Bucureşti Nord Gr.A - Iaşi,105
+546,6100826,,Izvoru Mureşului Hm. - Siculeni,106
+547,6100826,,Cluj Napoca - Braşov,103
+548,6100826,,Gheorgheni - Miercurea Ciuc,106
+549,6100826,,Odorhei Hm. - Sighişoara,106
+550,6100826,,Cluj Napoca - Oradea,200
+551,6100826,,Piteşti - Curtea de Argeş Hm.,106
+552,6100826,,Beclean pe Someş - Cluj Napoca,106
+553,6100826,,Oradea - Cluj Napoca,200
+554,6100826,,Ploieşti Sud - Mărăşeşti,106
+555,6100826,,Suceava - Bucureşti Nord Gr.A,102
+556,6100826,,Scânteia Hm. - Iaşi,106
+557,6100826,,Constanţa - Mangalia,106
+558,6100826,,Bucureşti Nord Gr.A - Braşov,106
+559,6100826,,Brad Hm. - Arad,106
+560,6100826,,Piatra Olt - Râmnicu Vâlcea,106
+561,6100826,,Braşov - Bucureşti Nord Gr.A,106
+562,6100826,,Bucureşti Progresu - Bucureşti Nord Gr.B,106
+563,6100826,,Baia Mare - Cluj Napoca,106
+564,6100826,,Piteşti - Craiova,106
+565,6100826,,Craiova - Calafat,106
+566,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+567,6100826,,Timişoara Nord - Stamora Moravita,106
+568,6100826,,Constanţa - Tulcea Oraş Hm.,106
+569,6100826,,Botoşani - Suceava Nord Hm.,106
+570,6100826,,Constanţa - Mangalia,106
+571,6100826,,Cluj Napoca - Lokoshaza,103
+572,6100826,,Simeria - Petroşani,106
+573,6100826,,Bucureşti Nord Gr.A - Craiova,103
+574,6100826,,Constanţa - Mangalia,106
+575,6100826,,Bucureşti Nord Gr.A - Slobozia Veche,106
+576,6100826,,Timişoara Nord - Stamora Moravita,106
+577,6100826,,Periam Hm. - Timişoara Nord,106
+578,6100826,,Buzău - Galaţi,106
+579,6100826,,Târgovişte - Titu,106
+580,6100826,,Târgu Mureş - Cluj Napoca,103
+581,6100826,,Suceava - Botoşani,106
+582,6100826,,Cluj Napoca - Bucureşti Nord Gr.A,102
+583,6100826,,Filiaşi - Drobeta Tr. Severin,106
+584,6100826,,Halmeu - Oradea,106
+585,6100826,,Bucureşti Nord Gr.A - Braşov,106
+586,6100826,,Călăraşi Sud - Ciulniţa,106
+587,6100826,,Paşcani - Adjud,106
+588,6100826,,Giurgiu - Bucureşti Progresu,106
+589,6100826,,Oradea - Constanţa,105
+590,6100826,,Făurei - Buzău,106
+591,6100826,,Oradea - Jibou,106
+592,6100826,,Miercurea Ciuc - Deda,106
+593,6100826,,Arad - Brad Hm.,106
+594,6100826,,Braşov - Constanţa,102
+595,6100826,,Corabia Hm. - Piatra Olt,106
+596,6100826,,Paşcani - Bacău,106
+597,6100826,,Mărăşeşti - Buzău,106
+598,6100826,,Bucureşti Progresu - Bucureşti Nord Gr.A,106
+599,6100826,,Paşcani - Mărăşeşti,106
+600,6100826,,Feteşti - Constanţa,106
+601,6100826,,Bacău - Iaşi,106
+602,6100826,,Mediaş - Cluj Napoca,106
+603,6100826,,Simeria - Cluj Napoca,106
+604,6100826,,Bucureşti Nord Gr.B - Braşov,106
+605,6100826,,Iaşi - Ungheni Prut Hm.,106
+606,6100826,,Constanţa - Călăraşi Sud,106
+607,6100826,,Craiova - Târgu Jiu,106
+608,6100826,,Cluj Napoca - Simeria,106
+609,6100826,,Iaşi - Timişoara Nord,105
+610,6100826,,Anina - Oraviţa,106
+611,6100826,,Bucureşti Nord Gr.A - Târgu Jiu,103
+612,6100826,,Carei - Jibou,106
+613,6100826,,Simeria - Deva,106
+614,6100826,,Timişoara Nord - Periam Hm.,106
+615,6100826,,Ciulniţa - Călăraşi Sud,106
+616,6100826,,Cluj Napoca - Baia Mare,106
+617,6100826,,Odorhei Hm. - Sighişoara,106
+618,6100826,,Jibou - Satu Mare,106
+619,6100826,,Buzău - Bucureşti Nord Gr.B,106
+620,6100826,,Urziceni - Slobozia Veche,106
+621,6100826,,Bucureşti Nord Gr.B - Buzău,106
+622,6100826,,Beia Hm. - Sibiu,106
+623,6100826,,Reşiţa Sud Hm. - Caransebeş,106
+624,6100826,,Ruse - Bucureşti Nord Gr.A,106
+625,6100826,,Bucureşti Nord Gr.A - Roşiori Nord,106
+626,6100826,,Deda - Târgu Mureş,103
+627,6100826,,Comăneşti - Mărăşeşti,106
+628,6100826,,Bacău - Piatra Neamţ,103
+629,6100826,,Piteşti - Curtea de Argeş Hm.,106
+630,6100826,,Buzău - Constanţa,106
+631,6100826,,Timişoara Nord - Băile Herculane,106
+632,6100826,,Oradea - Timişoara Nord,106
+633,6100826,,Bucureşti Nord Gr.A - Târgovişte,106
+634,6100826,,Ghimeş - Mărăşeşti,106
+635,6100826,,Huedin - Bratca Hm.,200
+636,6100826,,Jibou - Săcuieni Bihor Hm.,106
+637,6100826,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+638,6100826,,Timişoara Nord - Lugoj,106
+639,6100826,,Roşiori Nord - Craiova,106
+640,6100826,,Calafat - Craiova,106
+641,6100826,,Târgu Mureş - Deda,106
+642,6100826,,Vereşti Hm. - Botoşani,106
+643,6100826,,Cluj Napoca - Bistriţa Nord,106
+644,6100826,,Satu Mare - Constanţa,105
+645,6100826,,Craiova - Piteşti,106
+646,6100826,,Constanţa - Mangalia,106
+647,6100826,,Galaţi - Bucureşti Nord Gr.A,103
+648,6100826,,Suceava Nord Hm. - Iaşi,106
+649,6100826,,Simeria - Arad,106
+650,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+651,6100826,,Slobozia Veche - Bucureşti Nord Gr.A,106
+652,6100826,,Sibiu - Făgăraş,106
+653,6100826,,Teiuş - Târgu Mureş,106
+654,6100826,,Craiova - Târgu Jiu,106
+655,6100826,,Simeria - Teiuş,106
+656,6100826,,Lugoj - Timişoara Nord,106
+657,6100826,,Gheorgheni - Braşov,106
+658,6100826,,Gheorgheni - Braşov,106
+659,6100826,,Miercurea Ciuc - Băile Tuşnad Hm.,106
+660,6100826,,Călăraşi Sud - Ciulniţa,106
+661,6100826,,Caransebeş - Reşiţa Sud Hm.,106
+662,6100826,,Târgovişte - Titu,106
+663,6100826,,Arad - Timişoara Nord,106
+664,6100826,,Adjud - Paşcani,106
+665,6100826,,Calafat - Craiova,106
+666,6100826,,Cluj Napoca - Oradea,200
+667,6100826,,Ciulniţa - Slobozia Veche,106
+668,6100826,,Târgovişte - Bucureşti Nord Gr.B,106
+669,6100826,,Buzău - Bucureşti Nord Gr.A,106
+670,6100826,,Târgu Jiu - Petroşani,106
+671,6100826,,Miercurea Ciuc - Izvoru Mureşului Hm.,106
+672,6100826,,Stamora Moravita - Timişoara Nord,106
+673,6100826,,Filiaşi - Târgu Jiu,106
+674,6100826,,Bucureşti Nord Gr.A - Braşov,102
+675,6100826,,Călăraşi Sud - Constanţa,106
+676,6100826,,Bucureşti Nord Gr.A - Urziceni,106
+677,6100826,,Cluj Napoca - Ciucea Hm.,200
+678,6100826,,Craiova - Piteşti,106
+679,6100826,,Mediaş - Sibiu,106
+680,6100826,,Odorhei Hm. - Cristur Hm.,106
+681,6100826,,Suceava Nord Hm. - Constanţa,105
+682,6100826,,Timişoara Nord - Oradea,106
+683,6100826,,Mangalia - Constanţa,106
+684,6100826,,Bacău - Paşcani,106
+685,6100826,,Timişoara Nord - Bucureşti Nord Gr.A,103
+686,6100826,,Bucureşti Nord Gr.A - Lokoshaza,105
+687,6100826,,Constanţa - Iaşi,105
+688,6100826,,Timişoara Nord - Caransebeş,106
+689,6100826,,Ruse - Bucureşti Nord Gr.A,103
+690,6100826,,Arad - Timişoara Nord,106
+691,6100826,,Sighetu Marmaţiei - Vişeu de Jos,106
+692,6100826,,Bucureşti Nord Gr.A - Buzău,106
+693,6100826,,Braşov - Bucureşti Nord Gr.A,103
+694,6100826,,Sibiu - Craiova,106
+695,6100826,,Mărăşeşti - Galaţi,106
+696,6100826,,Lugoj - Margina,106
+697,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+698,6100826,,Sibiu - Caracal,106
+699,6100826,,Braşov - Miercurea Ciuc,106
+700,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+701,6100826,,Craiova - Constanţa,103
+702,6100826,,Mediaş - Teiuş,106
+703,6100826,,Teiuş - Cluj Napoca,106
+704,6100826,,Constanţa - Tulcea Oraş Hm.,106
+705,6100826,,Bacău - Adjud,106
+706,6100826,,Satu Mare - Bucureşti Nord Gr.A,105
+707,6100826,,Bucureşti Obor Hm. - Feteşti,106
+708,6100826,,Deda - Siculeni,106
+709,6100826,,Braşov - Bucureşti Nord Gr.B,106
+710,6100826,,Bratca Hm. - Oradea,200
+711,6100826,,Craiova - Bucureşti Nord Gr.A,106
+712,6100826,,Mărăşeşti - Miercurea Ciuc,106
+713,6100826,,Braşov - Bucureşti Nord Gr.A,106
+714,6100826,,Mărăşeşti - Bacău,106
+715,6100826,,Piatra Olt - Râmnicu Vâlcea,106
+716,6100826,,Orşova - Caransebeş,106
+717,6100826,,Dej Călători - Beclean pe Someş,106
+718,6100826,,Beclean pe Someş - Cluj Napoca,106
+719,6100826,,Cluj Napoca - Dej Călători,106
+720,6100826,,Piteşti - Craiova,106
+721,6100826,,Sibiu - Loamneş Hm.,106
+722,6100826,,Timişoara Nord - Arad,106
+723,6100826,,Nyirabrany - Braşov,103
+724,6100826,,Galaţi - Mărăşeşti,106
+725,6100826,,Satu Mare - Timişoara Nord,103
+726,6100826,,Cluj Napoca - Beclean pe Someş,106
+727,6100826,,Târgu Jiu - Filiaşi,106
+728,6100826,,Zalău Nord - Jibou,106
+729,6100826,,Piteşti - Craiova,106
+730,6100826,,Iaşi - Timişoara Nord,103
+731,6100826,,Cluj Napoca - Vişeu de Jos,106
+732,6100826,,Botoşani - Suceava Nord Hm.,106
+733,6100826,,Sighişoara - Sibiu,106
+734,6100826,,Târgu Neamţ Hm. - Iaşi,106
+735,6100826,,Lokoshaza - Bucureşti Nord Gr.A,105
+736,6100826,,Piteşti - Curtea de Argeş Hm.,106
+737,6100826,,Tecuci - Iaşi,106
+738,6100826,,Braşov - Nyirabrany,103
+739,6100826,,Bucureşti Obor Hm. - Constanţa,106
+740,6100826,,Teiuş - Cluj Napoca,106
+741,6100826,,Baia Mare - Cluj Napoca,106
+742,6100826,,Sighetu Marmaţiei - Vişeu de Jos,106
+743,6100826,,Baia Mare - Cluj Napoca,106
+744,6100826,,Simeria - Arad,106
+745,6100826,,Slobozia Veche - Urziceni,106
+746,6100826,,Sighişoara - Odorhei Hm.,106
+747,6100826,,Târgovişte - Bucureşti Nord Gr.A,106
+748,6100826,,Mangalia - Constanţa,106
+749,6100826,,Buzău - Galaţi,106
+750,6100826,,Siculeni - Braşov,106
+751,6100826,,Satu Mare - Oradea,106
+752,6100826,,Târgu Mureş - Braşov,103
+753,6100826,,Bucureşti Nord Gr.A - Craiova,103
+754,6100826,,Corabia Hm. - Slatina,106
+755,6100826,,Slatina - Piatra Olt,106
+756,6100826,,Oradea - Cluj Napoca,200
+757,6100826,,Constanţa - Bucureşti Nord Gr.A,102
+758,6100826,,Bucureşti Nord Gr.B - Bucureşti Progresu,106
+759,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+760,6100826,,Medgidia - Tulcea Oraş Hm.,106
+761,6100826,,Craiova - Bucureşti Nord Gr.A,106
+762,6100826,,Stamora Moravita - Timişoara Nord,106
+763,6100826,,Oradea - Cluj Napoca,200
+764,6100826,,Piteşti - Piatra Olt,106
+765,6100826,,Vatra Dornei Băi hc. - Bucureşti Nord Gr.A,105
+766,6100826,,Lokoshaza - Timişoara Nord,103
+767,6100826,,Nyirabrany - Braşov,105
+768,6100826,,Braşov - Cluj Napoca,105
+769,6100826,,Târgu Mureş - Sibiu,106
+770,6100826,,Arad - Oradea,105
+771,6100826,,Mărăşeşti - Galaţi,106
+772,6100826,,Curtea de Argeş Hm. - Piteşti,106
+773,6100826,,Carei - Zalău Nord,106
+774,6100826,,Urziceni - Bucureşti Nord Gr.A,106
+775,6100826,,Lokoshaza - Bucureşti Nord Gr.A,105
+776,6100826,,Braşov - Constanţa,103
+777,6100826,,Timişoara Nord - Lokoshaza,103
+778,6100826,,Ilva Mică Hm. - Beclean pe Someş,106
+779,6100826,,Buzău - Constanţa,106
+780,6100826,,Ilva Mică Hm. - Dej Călători,106
+781,6100826,,Roşiori Nord - Craiova,106
+782,6100826,,Bucureşti Nord Gr.A - Constanţa,103
+783,6100826,,Sibiu - Craiova,106
+784,6100826,,Craiova - Petroşani,106
+785,6100826,,Botoşani - Vereşti Hm.,106
+786,6100826,,Braşov - Simeria,103
+787,6100826,,Cluj Napoca - Jibou,106
+788,6100826,,Craiova - Bucureşti Nord Gr.A,103
+789,6100826,,Arad - Bucureşti Nord Gr.A,103
+790,6100826,,Bârlad - Iaşi,106
+791,6100826,,Săcuieni Bihor Hm. - Sărmăşag Hm.,106
+792,6100826,,Bucureşti Nord Gr.A - Braşov,106
+793,6100826,,Bacău - Bucureşti Nord Gr.A,103
+794,6100826,,Craiova - Drobeta Tr. Severin,106
+795,6100826,,Târgu Mureş - Deda,103
+796,6100826,,Sibiu - Ucea Hm.,106
+797,6100826,,Suceava - Cacica Hm.,106
+798,6100826,,Paşcani - Bacău,106
+799,6100826,,Miercurea Ciuc - Siculeni,106
+800,6100826,,Constanţa - Mangalia,106
+801,6100826,,Piatra Neamţ - Bacău,103
+802,6100826,,Oneşti - Buzău,106
+803,6100826,,Bucureşti Nord Gr.A - Suceava,103
+804,6100826,,Sighişoara - Beia Hm.,106
+805,6100826,,Iaşi - Bârlad,106
+806,6100826,,Râmnicu Vâlcea - Sibiu,106
+807,6100826,,Constanţa - Braşov,103
+808,6100826,,Adjud - Paşcani,106
+809,6100826,,Băileşti - Craiova,106
+810,6100826,,Iaşi - Paşcani,106
+811,6100826,,Lugoj - Margina,106
+812,6100826,,Braşov - Gheorgheni,106
+813,6100826,,Cluj Napoca - Iaşi,103
+814,6100826,,Loamneş Hm. - Sibiu,106
+815,6100826,,Parcul Kreţulescu h. - Goleşti,106
+816,6100826,,Arad - Caransebeş,106
+817,6100826,,Sibiu - Braşov,106
+818,6100826,,Cacica Hm. - Suceava,106
+819,6100826,,Buzău - Bucureşti Nord Gr.A,106
+820,6100826,,Constanţa - Buzău,106
+821,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+822,6100826,,Bucureşti Nord Gr.A - Buzău,106
+823,6100826,,Sibiu - Târgu Mureş,106
+824,6100826,,Oneşti - Mărăşeşti,106
+825,6100826,,Arad - Gurahonţ Hm.,106
+826,6100826,,Constanţa - Mangalia,106
+827,6100826,,Roşiori Nord - Bucureşti Nord Gr.A,106
+828,6100826,,Adjud - Comăneşti,106
+829,6100826,,Bucureşti Nord Gr.A - Bucureşti Obor Hm.,106
+830,6100826,,Feteşti - Bucureşti Obor Hm.,106
+831,6100826,,Satu Mare - Jibou,106
+832,6100826,,Jibou - Oradea,106
+833,6100826,,Siculeni - Focşani,106
+834,6100826,,Beclean pe Someş - Ilva Mică Hm.,106
+835,6100826,,Sibiu - Craiova,106
+836,6100826,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+837,6100826,,Comăneşti - Buzău,106
+838,6100826,,Târgu Mureş - Teiuş,106
+839,6100826,,Păuşa h. - Caracal,106
+840,6100826,,Sibiu - Bucureşti Nord Gr.A,103
+841,6100826,,Braşov - Bucureşti Nord Gr.A,106
+842,6100826,,Braşov - Bucureşti Nord Gr.A,102
+843,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+844,6100826,,Petroşani - Craiova,106
+845,6100826,,Radna - Arad,106
+846,6100826,,Constanţa - Bucureşti Nord Gr.A,103
+847,6100826,,Iaşi - Ungheni Prut Hm.,106
+848,6100826,,Bucureşti Nord Gr.A - Constanţa,106
+849,6100826,,Iaşi - Galaţi,103
+850,6100826,,Bucureşti Nord Gr.A - Suceava Nord Hm.,103
+851,6100826,,Caransebeş - Reşiţa Sud Hm.,106
+852,6100826,,Suceava - Bucureşti Nord Gr.A,103
+853,6100826,,Sibiu - Braşov,106
+854,6100826,,Odorhei Hm. - Cristur Hm.,106
+855,6100826,,Caracal - Sibiu,106
+856,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
+857,6100826,,Iaşi - Bacău,103
+858,6100826,,Jibou - Satu Mare,106
+859,6100826,,Bucureşti Nord Gr.A - Constanţa,103
+860,6100826,,Drobeta Tr. Severin - Craiova,106
+861,6100826,,Piatra Olt - Sibiu,106
+862,6100826,,Piatra Olt - Craiova,106
+863,6100826,,Craiova - Caracal,106
+864,6100826,,Slobozia Veche - Ciulniţa,106
+865,6100826,,Cristur Hm. - Odorhei Hm.,106
+866,6100826,,Gheorgheni - Braşov,106
+867,6100826,,Cristur Hm. - Odorhei Hm.,106
+868,6100826,,Braşov - Galaţi,103
+869,6100826,,Bucureşti Nord Gr.A - Vatra Dornei Băi hc.,105
+870,6100826,,Bucureşti Obor Hm. - Bucureşti Nord Gr.A,106
+871,6100826,,Teiuş - Mediaş,106
+872,6100826,,Ucea Hm. - Sibiu,106
+873,6100826,,Galaţi - Cluj Napoca,103
+874,6100826,,Târgovişte - Bucureşti Nord Gr.B,106
+875,6100826,,Slobozia Veche - Ciulniţa,106
+876,6100826,,Topliţa - Braşov,106
+877,6100826,,Curtea de Argeş Hm. - Piteşti,106
+878,6100826,,Iaşi - Paşcani,103
+879,6100826,,Satu Mare - Seini Hm.,106
+880,6100826,,Oraviţa - Anina,106
+881,6100826,,Mărăşeşti - Ghimeş,106
+882,6100826,,Suceava Nord Hm. - Bucureşti Nord Gr.A,103
+883,6100826,,Cluj Napoca - Bucureşti Nord Gr.A,103
+884,6100826,,Oradea - Cluj Napoca,200
+885,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+886,6100826,,Timişoara Nord - Iaşi,105
+887,6100826,,Bucureşti Nord Gr.A - Constanţa,102
+888,6100826,,Târgu Jiu - Craiova,106
+889,6100826,,Constanţa - Buzău,103
+890,6100826,,Petroşani - Craiova,106
+891,6100826,,Bistriţa Nord - Dej Călători,106
+892,6100826,,Bucureşti Nord Gr.A - Galaţi,102
+893,6100826,,Piatra Olt - Piteşti,106
+894,6100826,,Oradea - Bratca Hm.,200
+895,6100826,,Ilva Mică Hm. - Cluj Napoca,106
+896,6100826,,Timişoara Nord - Lovrin Hm.,106
+897,6100826,,Oradea - Arad,105
+898,6100826,,Dej Călători - Cluj Napoca,106
+899,6100826,,Constanţa - Braşov,103
+900,6100826,,Galaţi - Braşov,103
+901,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+902,6100826,,Sighetu Marmaţiei - Beclean pe Someş,106
+903,6100826,,Constanţa - Satu Mare,105
+904,6100826,,Bucureşti Nord Gr.A - Târgu Mureş,103
+905,6100826,,Braşov - Gheorgheni,106
+906,6100826,,Iaşi - Cacica Hm.,106
+907,6100826,,Braşov - Gheorgheni,106
+908,6100826,,Braşov - Sibiu,106
+909,6100826,,Galaţi - Iaşi,103
+910,6100826,,Oradea - Halmeu,106
+911,6100826,,Vidin Patnicheska - Craiova,106
+912,6100826,,Bucureşti Nord Gr.A - Craiova,106
+913,6100826,,Mărăşeşti - Galaţi,106
+914,6100826,,Bucureşti Nord Gr.A - Constanţa,103
+915,6100826,,Bucureşti Obor Hm. - Feteşti,106
+916,6100826,,Bucureşti Nord Gr.A - Ungheni,105
+917,6100826,,Sibiu - Piatra Olt,106
+918,6100826,,Gheorgheni - Braşov,106
+919,6100826,,Adjud - Ploieşti Sud,106
+920,6100826,,Braşov - Bucureşti Nord Gr.A,103
+921,6100826,,Constanţa - Suceava Nord Hm.,105
+922,6100826,,Bucureşti Nord Gr.A - Braşov,106
+923,6100826,,Miercurea Ciuc - Oneşti,106
+924,6100826,,Mediaş - Braşov,106
+925,6100826,,Sibiu - Miercurea Sibiu Hm.,106
+926,6100826,,Suceava Nord Hm. - Bacău,106
+927,6100826,,Mărăşeşti - Paşcani,106
+928,6100826,,Ungheni Prut Fr. - Bucureşti Nord Gr.A,105
+929,6100826,,Bucureşti Nord Gr.A - Piteşti,106
+930,6100826,,Braşov - Iaşi,103
+931,6100826,,Buzău - Constanţa,103
+932,6100826,,Craiova - Petroşani,106
+933,6100826,,Braşov - Făgăraş,106
+934,6100826,,Ilva Mică Hm. - Suceava,106
+935,6100826,,Roşiori Nord - Bucureşti Nord Gr.B,106
+936,6100826,,Gheorgheni - Braşov,106
+937,6100826,,Podu Olt - Piatra Olt,106
+938,6100826,,Lokoshaza - Bucureşti Nord Gr.A,103
+939,6100826,,Craiova - Filiaşi,106
+940,6100826,,Făgăraş - Sibiu,106
+941,6100826,,Craiova - Bucureşti Nord Gr.A,103
+942,6100826,,Galaţi - Buzău,106
+943,6100826,,Bucureşti Nord Gr.B - Târgovişte,106
+944,6100826,,Ploieşti Sud - Mărăşeşti,106
+945,6100826,,Arad - Radna,106
+946,6100826,,Parcul Kreţulescu h. - Goleşti,106
+947,6100826,,Simeria - Petroşani,106
+948,6100826,,Braşov - Cluj Napoca,105
+949,6100826,,Oradea - Timişoara Nord,103
+950,6100826,,Sibiu - Constanţa,103
+951,6100826,,Braşov - Gheorgheni,106
+952,6100826,,Bucureşti Nord Gr.A - Suceava,102
+953,6100826,,Târgu Jiu - Bucureşti Nord Gr.A,103
+954,6100826,,Braşov - Nyirabrany,105
+955,6100826,,Caracal - Craiova,106
+956,6100826,,Lokoshaza - Cluj Napoca,103
+957,6100826,,Iaşi - Braşov,103
+958,6100826,,Sărmăşag Hm. - Zalău Nord,106
+959,6100826,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+960,6100826,,Timişoara Nord - Oradea,106
+961,6100826,,Adjud - Mărăşeşti,106
+962,6100826,,Bucureşti Nord Gr.A - Teiuş,103
+963,6100826,,Bucureşti Nord Gr.A - Arad,105
+964,6100826,,Ilva Mică Hm. - Beclean pe Someş,106
+965,6100826,,Constanţa - Bucureşti Nord Gr.A,106
+966,6100826,,Craiova - Sibiu,106
+967,6100826,,Mangalia - Constanţa,106
+968,6100826,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+969,6100826,,Sibiu - Copşa Mică,106
+970,6100826,,Bucureşti Nord Gr.A - Constanţa,103
+971,6100826,,Piteşti - Piatra Olt,106
+972,6100826,,Iaşi - Constanţa,105
+973,6100826,,Cluj Napoca - Bucureşti Nord Gr.A,103
+974,6100826,,Braşov - Bucureşti Nord Gr.A,106
+975,6100826,,Cluj Napoca - Baia Mare,106
+976,6100826,,Braşov - Gheorgheni,106
+977,6100826,,Piteşti - Craiova,106
+978,6100826,,Braşov - Bucureşti Nord Gr.A,106
+979,6100826,,Braşov - Topliţa,106
+980,6100826,,Constanţa - Mangalia,106
+981,6100826,,Titu - Târgovişte,106
+982,6100826,,Craiova - Vidin Patnicheska,106
+983,6100826,,Constanţa - Craiova,103
+984,6100826,,Buzău - Bucureşti Nord Gr.B,106
+985,6100826,,Mărăşeşti - Miercurea Ciuc,106
+986,6100826,,Buzău - Bucureşti Nord Gr.B,106
+987,6100826,,Timişoara Nord - Baia Mare,103
+988,6100826,,Timişoara Nord - Oradea,103
+989,6100826,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+990,6100826,,Petroşani - Craiova,106
+991,6100826,,Cluj Napoca - Târgu Mureş,103
+992,6100826,,Bucureşti Nord Gr.B - Târgovişte,106
+993,6100826,,Dej Călători - Cluj Napoca,106
+994,6100826,,Craiova - Petroşani,106
+995,6100826,,Satu Mare - Nyirabrany,106
+996,6100826,,Bistriţa Nord - Cluj Napoca,106
+997,6100826,,Ploieşti Sud - Buzău,106
+998,6100826,,Târgu Jiu - Craiova,106
+999,6100826,,Bucureşti Nord Gr.A - Sibiu,103
+1000,6100826,,Suceava Nord Hm. - Botoşani,106
+1001,6100826,,Bucureşti Nord Gr.B - Piteşti,106
+1002,6100826,,Constanţa - Oradea,105
+1003,6100826,,Constanţa - Bucureşti Obor Hm.,106
+1004,6100826,,Piteşti - Bucureşti Nord Gr.A,106
+1005,6100826,,Arad - Timişoara Nord,106
+1006,6100826,,Braşov - Gheorgheni,106
+1007,6100826,,Timişoara Nord - Oradea,106
+1008,6100826,,Râmnicu Vâlcea - Sibiu,106
+1009,6100826,,Craiova - Piatra Olt,106
+1010,6100826,,Braşov - Gheorgheni,106
+1011,6100826,,Galaţi - Mărăşeşti,106
+1012,6100826,,Constanţa - Timişoara Nord,105
+1013,6100826,,Bucureşti Nord Gr.A - Timişoara Nord,103
+1014,6100826,,Sighetu Marmaţiei - Beclean pe Someş,106
+1015,236025,,Bucureşti Nord Gr.A - Braşov,106
+1016,236025,,Craiova - Bucureşti Nord Gr.A,106
+1017,236025,,Braşov - Bucureşti Nord Gr.A,106
+1018,236025,,Bucureşti Nord Gr.A - Craiova,106
+1019,236025,,Constanţa - Bucureşti Nord Gr.A,103
+1020,236025,,Bucureşti Nord Gr.A - Craiova,106
+1021,236025,,Craiova - Bucureşti Nord Gr.A,106
+1022,236025,,Bucureşti Nord Gr.A - Constanţa,103
+1023,236025,,Craiova - Bucureşti Nord Gr.A,106
