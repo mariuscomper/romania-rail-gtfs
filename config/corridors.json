@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bucuresti-brasov",
+    "start": "București Nord",
+    "end": "Brașov",
+    "label_ro": "București Nord – Brașov",
+    "label_en": "Bucharest North – Brașov",
+    "deck_ro": "Valea Prahovei, trenuri rapide și locale pe aceeași axă",
+    "deck_en": "The Prahova Valley, fast and local trains on the same axis",
+    "major": ["București Nord", "Ploiești Vest", "Câmpina", "Sinaia", "Bușteni Hm.", "Azuga Hm.", "Predeal", "Brașov"]
+  },
+  {
+    "id": "bucuresti-constanta",
+    "start": "București Nord",
+    "end": "Constanța",
+    "label_ro": "București Nord – Constanța",
+    "label_en": "Bucharest North – Constanța",
+    "deck_ro": "Magistrala spre mare, inclusiv variația sezonieră",
+    "deck_en": "The line to the Black Sea, including its seasonal rhythm",
+    "major": ["București Nord", "Ciulnița", "Fetești", "Cernavodă Pod", "Medgidia", "Constanța"]
+  },
+  {
+    "id": "bucuresti-craiova",
+    "start": "București Nord",
+    "end": "Craiova",
+    "label_ro": "București Nord – Craiova",
+    "label_en": "Bucharest North – Craiova",
+    "deck_ro": "Axa sudică prin Videle, Roșiori și Caracal",
+    "deck_en": "The southern axis through Videle, Roșiori and Caracal",
+    "major": ["București Nord", "Videle", "Roșiori Nord", "Caracal", "Craiova"]
+  },
+  {
+    "id": "bucuresti-suceava",
+    "start": "București Nord",
+    "end": "Suceava",
+    "label_ro": "București Nord – Suceava",
+    "label_en": "Bucharest North – Suceava",
+    "deck_ro": "O secțiune lungă a Magistralei 500, până în nordul Moldovei",
+    "deck_en": "A long section of Main Line 500 into northern Moldavia",
+    "major": ["București Nord", "Ploiești Sud", "Buzău", "Focșani", "Mărășești", "Adjud", "Bacău", "Roman", "Pașcani", "Suceava"]
+  },
+  {
+    "id": "bucuresti-galati",
+    "start": "București Nord",
+    "end": "Galați",
+    "label_ro": "București Nord – Galați",
+    "label_en": "Bucharest North – Galați",
+    "deck_ro": "Prin Buzău, Făurei și Brăila către Dunărea de Jos",
+    "deck_en": "Via Buzău, Făurei and Brăila to the Lower Danube",
+    "major": ["București Nord", "Ploiești Sud", "Buzău", "Făurei", "Brăila", "Galați"]
+  },
+  {
+    "id": "bucuresti-pitesti",
+    "start": "București Nord",
+    "end": "Pitești",
+    "label_ro": "București Nord – Pitești",
+    "label_en": "Bucharest North – Pitești",
+    "deck_ro": "Coridor regional prin Titu, Găești și Golești",
+    "deck_en": "A regional corridor through Titu, Găești and Golești",
+    "major": ["București Nord", "Chitila", "Titu", "Găești", "Golești", "Pitești"]
+  },
+  {
+    "id": "brasov-cluj",
+    "start": "Brașov",
+    "end": "Cluj Napoca",
+    "label_ro": "Brașov – Cluj-Napoca",
+    "label_en": "Brașov – Cluj-Napoca",
+    "deck_ro": "Transilvania de sud și de centru, prin Sighișoara și Teiuș",
+    "deck_en": "Southern and central Transylvania via Sighișoara and Teiuș",
+    "major": ["Brașov", "Rupea", "Sighișoara", "Mediaș", "Copșa Mică", "Blaj", "Teiuș", "Aiud Hm.", "Războieni", "Câmpia Turzii", "Cluj Napoca"]
+  },
+  {
+    "id": "brasov-sibiu",
+    "start": "Brașov",
+    "end": "Sibiu",
+    "label_ro": "Brașov – Sibiu",
+    "label_en": "Brașov – Sibiu",
+    "deck_ro": "Linia prin Țara Făgărașului și valea Oltului",
+    "deck_en": "The line through Făgăraș Land and the Olt valley",
+    "major": ["Brașov", "Făgăraș", "Avrig Hm.", "Podu Olt", "Sibiu"]
+  },
+  {
+    "id": "craiova-timisoara",
+    "start": "Craiova",
+    "end": "Timișoara Nord",
+    "label_ro": "Craiova – Timișoara Nord",
+    "label_en": "Craiova – Timișoara North",
+    "deck_ro": "De-a lungul Dunării și prin Banat, pe una dintre cele mai lente axe lungi",
+    "deck_en": "Along the Danube and through Banat on a long cross-country axis",
+    "major": ["Craiova", "Filiași", "Drobeta Tr. Severin", "Orșova", "Băile Herculane", "Caransebeș", "Lugoj", "Timișoara Nord"]
+  },
+  {
+    "id": "timisoara-arad",
+    "start": "Timișoara Nord",
+    "end": "Arad",
+    "label_ro": "Timișoara Nord – Arad",
+    "label_en": "Timișoara North – Arad",
+    "deck_ro": "Două mari orașe vestice și serviciile dintre ele",
+    "deck_en": "Two major western cities and the services connecting them",
+    "major": ["Timișoara Nord", "Vinga Hm.", "Arad"]
+  },
+  {
+    "id": "iasi-suceava",
+    "start": "Iași",
+    "end": "Suceava",
+    "label_ro": "Iași – Suceava",
+    "label_en": "Iași – Suceava",
+    "deck_ro": "Axa regională prin Târgu Frumos, Pașcani și Dolhasca",
+    "deck_en": "The regional axis through Târgu Frumos, Pașcani and Dolhasca",
+    "major": ["Iași", "Târgu Frumos Hm.", "Pașcani", "Dolhasca", "Verești Hm.", "Suceava"]
+  },
+  {
+    "id": "cluj-baia-mare",
+    "start": "Cluj Napoca",
+    "end": "Baia Mare",
+    "label_ro": "Cluj-Napoca – Baia Mare",
+    "label_en": "Cluj-Napoca – Baia Mare",
+    "deck_ro": "Prin Dej, valea Someșului și Jibou",
+    "deck_en": "Via Dej, the Someș valley and Jibou",
+    "major": ["Cluj Napoca", "Gherla", "Dej Călători", "Ileanda", "Jibou", "Baia Mare"]
+  }
+]
